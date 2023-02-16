@@ -19,7 +19,7 @@ pipeline {
 
         stage('Deploy') {
             steps {
-               
+               sh 'skdjfskf'
                 echo 'Deploy by CS279 successful'
             }
         }
