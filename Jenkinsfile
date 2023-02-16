@@ -14,7 +14,6 @@ pipeline {
             steps {
                 sh 'cat tester.cpp'
                 echo 'Test by CS279 successful'
-                sh 'skdjfskf'
             }
         }
 
